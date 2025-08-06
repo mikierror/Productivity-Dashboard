@@ -45,7 +45,7 @@ Productivity-Dashboard/
 ## 🛠️ Technologies Used
 
 - **HTML5** – Semantic structure
-- **CSS3** – Responsive layout and styling
+- **CSS3** –  styling
 - **JavaScript (ES6)** – DOM manipulation, events, localStorage, timers
 
 ---
@@ -54,7 +54,7 @@ Productivity-Dashboard/
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/Productivity-Dashboard.git
+git clone https://github.com/mikierror/Productivity-Dashboard.git
 Navigate into the folder:
 
 
@@ -64,8 +64,7 @@ Open index.html in any browser:
 
 open index.html
 📸 Screenshot
-
-![Dashboard Screenshot](fav/Git%20push%20error%20fix%20-%20Google%20Chrome%208_6_2025%2012_34_30%20PM.png)
+(Add your real screenshot here)
 
 
 ✅ Future Features (Ideas)
